@@ -10,3 +10,18 @@ This is a challenge launched in the course of the bootStamp goStack from RockeSe
 
 
 
+CREATE TASKS
+http://localhost:3000/projects/5/tasks
+
+DELETE PROJECTS
+http://localhost:3000/projects/5
+
+UPDATE PROJECTS
+http://localhost:3000/projects/7
+
+CREATE PROJECTS
+http://localhost:3000/projects
+
+GET PROJECTS
+http://localhost:3000/projects
+
